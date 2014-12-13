@@ -22,7 +22,7 @@ end
 ## Install
 
 ```
-echo 'gem "module-requirement", :git => "git://github.com/aereal/module-requirement.git"'
+echo 'gem "module-requirement", :git => "git://github.com/aereal/module-requirement.git"' >> Gemfile
 ```
 
 ## License
